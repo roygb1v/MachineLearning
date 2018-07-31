@@ -29,4 +29,4 @@ Facebook only has Likes which is not so useful to me.
 
 10. I will then output the predicted data on a new column (i.e df["Predicted"] = model.predict(X_test))
 
-These workflow may be subjected to changes as I read more on NLP.
+This workflow may be subjected to changes as I read more on NLP.
